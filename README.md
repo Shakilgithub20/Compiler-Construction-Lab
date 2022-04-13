@@ -1,5 +1,7 @@
-# Compiler Construction Lab
-
+<h1 align="center">
+Compiler Construction Lab
+</h1>
+  
 ### Experiments List
 - [lab_01.ipynb](lab_01.ipynb) - Text File Read
 - [lab_02.ipynb](lab_02.ipynb) - C File Read & Comment Remove
